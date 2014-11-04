@@ -1,2 +1,10 @@
 
 .idea/workspace.xml
+
+.idea/watcherTasks.xml
+
+npm-debug.log
+
+.idea/jsLibraryMappings.xml
+
+.idea/todos.iml
