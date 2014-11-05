@@ -182,6 +182,13 @@ textarea {
   font-weight: 400;
   font-style: normal;
 }
+@font-face {
+  font-family: 'todos';
+  src: url('/icon/todos.eot');
+  src: url('/icon/todos.eot') format('embedded-opentype'), url('/icon/todos.woff') format('woff'), url('/icon/todos.ttf') format('truetype'), url('/icon/todos.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
 .force-wrap {
   word-wrap: break-word;
   word-break: break-all;
@@ -487,13 +494,6 @@ input:-webkit-autofill {
   position: absolute;
   top: 50%;
   width: 1em;
-}
-@font-face {
-  font-family: 'todos';
-  src: url('/icon/todos.eot?-5w3um4');
-  src: url('/icon/todos.eot?#iefix5w3um4') format('embedded-opentype'), url('/icon/todos.woff?5w3um4') format('woff'), url('/icon/todos.ttf?5w3um4') format('truetype'), url('/icon/todos.svg?5w3um4#todos') format('svg');
-  font-weight: normal;
-  font-style: normal;
 }
 [class^="icon-"],
 [class*=" icon-"] {
